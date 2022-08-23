@@ -7,9 +7,10 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node index.js"
     },
-    "author": "Andres Macias",
+    "author": "Chad ONeal",
     "license": "MIT",
     "dependencies": {
       "moment": ">=2.27.0 <2.29.1",
       "pino": "6.13.4"
     }
+    
